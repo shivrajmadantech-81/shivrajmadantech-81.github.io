@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#0f172a"/>
+  <rect x="60" y="60" width="680" height="480" rx="20" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+  <circle cx="400" cy="220" r="70" fill="#0f172a" stroke="#3b82f6" stroke-width="2"/>
+  <path d="M375 220L395 240L425 200" stroke="#3b82f6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="340" text-anchor="middle" fill="#93c5fd" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="600">ABOUT PHOTO PLACEHOLDER</text>
+  <text x="400" y="380" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="500">Shivraj Madan - Student and Technology Enthusiast</text>
+  <text x="400" y="420" text-anchor="middle" fill="#64748b" font-family="system-ui, -apple-system, sans-serif" font-size="14">Place file at: images/shivraj-madan-about.jpg</text>
+</svg>

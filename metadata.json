@@ -1,0 +1,8 @@
+{
+  "name": "Remix Shivraj Madan - Portfolio",
+  "description": "Make the following final improvements before I deploy this website to GitHub Pages:\n\n1. Keep the current professional design exactly as it is.\n2. Make sure my LinkedIn button points to:\nhttps://www.linkedin.com/in/shivrajmadan\n\n3. Make sure every LinkedIn button/link on the entire website points to:\nhttps://www.linkedin.com/in/shivrajmadan\n\n4. Do NOT add Instagram.\n\n5. Keep the profile photo placeholder, because I will add my real photo manually later.\n\n6. Make sure the project is a completely static website that can be hosted on GitHub Pages for FREE.\n\n7. Remove any unnecessary backend, API, database, authentication, npm, or paid service requirements.\n\n8. Make sure the final project contains:\nindex.html\nstyle.css\nscript.js\nrobots.txt\nsitemap.xml\nimages/\n\n9. Make sure robots.txt and sitemap.xml are ready for GitHub Pages.\n\n10. Make sure the website has valid Person JSON-LD structured data with:\nName: Shivraj Madan\nLocation: Chhatrapati Sambhajinagar, Maharashtra, India\nLinkedIn:\nhttps://www.linkedin.com/in/shivrajmadan\n\n11. Do not invent any achievements, certifications, jobs, awards, companies, followers, or statistics.\n\n12. Keep the website fast, professional, mobile responsive and SEO-friendly.\n\nAfter making these changes, show me the final project files and confirm that it is ready for GitHub Pages deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

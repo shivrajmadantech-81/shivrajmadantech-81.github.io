@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0b1329"/>
+  <rect x="40" y="40" width="720" height="420" rx="16" fill="#131e3a" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="8 8"/>
+  <rect x="360" y="140" width="80" height="80" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M385 180L400 195L415 165" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="270" text-anchor="middle" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700">PROJECT PREVIEW</text>
+  <text x="400" y="310" text-anchor="middle" fill="#f1f5f9" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="500">Shivraj Madan working on a technology project</text>
+  <text x="400" y="345" text-anchor="middle" fill="#64748b" font-family="system-ui, -apple-system, sans-serif" font-size="14">Place file at: images/shivraj-madan-project-1.jpg</text>
+</svg>
